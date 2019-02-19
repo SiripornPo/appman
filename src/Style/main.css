@@ -1,0 +1,14 @@
+.imgMon {
+    height: 180px;
+}
+
+.btnAddMon {
+    margin: 5px 10px 0 5px;
+    color: transparent;
+    cursor: pointer;
+    display: inline-table;
+}
+
+.btnAddMon:hover {
+    color: #ec5656;
+}
